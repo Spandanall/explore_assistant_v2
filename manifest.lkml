@@ -14,7 +14,7 @@ application: explore_assistant {
     # external_api_urls: ["cloud function url"]
   }
   }
-application: explore_sb_assistant_lh {
+application: explore_sp_assistant_lh {
     label: "Explore Assistant Extension Localhost - Sp"
     url: "https://localhost:8080/bundle.js"
     #file: "bundle.js"
