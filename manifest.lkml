@@ -1,11 +1,4 @@
 project_name: "explore_assistant_demo_sp"
-application: helloworld-js {
-  label: "Helloworld (JavaScript)"
-  url: "https://localhost:8080/bundle.js"
-  entitlements: {
-    core_api_methods: ["me"]
-  }
-}
 application: explore_assistant {
   label: "Explore Assistant Extension Framework - Sp"
   # url: "https://localhost:8080/bundle.js"
