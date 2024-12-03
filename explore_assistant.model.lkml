@@ -1,1 +1,0 @@
-connection: "spandana-explore-assistant"
